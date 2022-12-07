@@ -1,0 +1,22 @@
+{
+  "name": "spammer-server",
+  "version": "1.0.0",
+  "description": "spammer-server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homanhluc/spammer-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homanhluc/spammer-server/issues"
+  },
+  "homepage": "https://github.com/homanhluc/spammer-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
